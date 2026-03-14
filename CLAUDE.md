@@ -75,5 +75,5 @@ All notification channels are configured via environment variables in `sendNotif
 
 ## Key APIs
 
-- Checkin: `POST https://glados.rocks/api/user/checkin` with `{"token": "glados.one"}`
-- Status: `GET https://glados.rocks/api/user/status`
+- Checkin: `POST https://glados.cloud/api/user/checkin` with `{"token": "glados.cloud"}`
+- Status: `GET https://glados.cloud/api/user/status`
